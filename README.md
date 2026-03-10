@@ -36,7 +36,7 @@
 ### - Use Cases
 
 **Диаграмма Use Cases UML:**  
-![Use Cases UML](image 1.jpg "Title")
+[Диаграмма Use Cases UML](путь/к/файлу/diagram.jpg)
 ---
 
 ## 3. Нефункциональные требования
